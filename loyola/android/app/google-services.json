@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "464972509451",
+    "project_id": "loyola-df97b",
+    "storage_bucket": "loyola-df97b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464972509451:android:e9f42eb9a9086338e8720e",
+        "android_client_info": {
+          "package_name": "com.loyola.app.loyola"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464972509451-8tvdjb0ui832kalvkgvjj2k31co10epm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByMnb0He5Z2SEbBlmG51Kh1qclCvepat8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464972509451-8tvdjb0ui832kalvkgvjj2k31co10epm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
